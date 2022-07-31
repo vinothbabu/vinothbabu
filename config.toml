@@ -88,7 +88,7 @@ weight = 4
 name = "Vinoth Babu"
 URL = "s3://vinothbabu.com"
 
-cloudFrontDistributionID = "E2BVR245D7NGP3"
+cloudFrontDistributionID = "E3CQM5BACMNNUS"
 
 [[deployment.matchers]]
 # Cache static assets for 20 years.
