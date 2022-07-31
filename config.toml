@@ -26,7 +26,7 @@ summaryLength = 20
     # Blog subtitle which appears below blog title. Supports markdown.
     subtitle = "RajiniKanth Fan!!"
 
-    # Content types which are included in home page recent posts list.
+    # Content types which are included in home page recent posts list
     mainSections = ["posts"]
 
     # Content types which are excludes Disqus comments.
