@@ -23,7 +23,7 @@ summaryLength = 20
 
 
 [params]
-    # Blog subtitle which appears below blog title. Supports markdown.
+    # Blog subtitle which appears below blog title. Supports markdown
     subtitle = "RajiniKanth Fan!!"
 
     # Content types which are included in home page recent posts list.
