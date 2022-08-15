@@ -1,0 +1,82 @@
+@use "sass:color";
+@import "variables";
+
+@mixin header-link() {
+    a {
+        color: #000;
+        text-decoration: none;
+
+        &:hover {
+            color: $link-color;
+        }
+    }
+}
+
+@mixin text-link() {
+    border-bottom: 1px solid color.adjust($link-color, $lightness: 50%);
+    color: $link-color;
+    text-decoration: none;
+
+    &:hover {
+        color: $secondary-color;
+    }
+}
+
+@mixin background-cover() {
+    background: {
+        position: center center;
+        repeat: no-repeat;
+        size: cover;
+    }
+}
+
+@mixin image-credit() {
+    bottom: 0;
+    color: #FFF;
+    font: {
+        family: $header-font;
+        size: .8rem;
+        weight: 400;
+    }
+    padding: .4em;
+    position: absolute;
+    right: 0;
+    text-shadow: 0 0 5px #000;
+
+    a {
+        color: #FFF;
+    }
+}
+
+@mixin header-font() {
+    font: {
+        family: $header-font;
+        weight: 500;
+    }
+}
+
+@mixin side-floated-content() {
+    @media #{$responsive-medium} {
+        &.left, &.right {
+            max-width: calc(50% - 1em + #{$content-padding});
+        }
+    }
+
+    @media #{$responsive-medium-large} {
+        &.left {
+            float: left;
+            margin-right: 2em;
+        }
+
+        &.right {
+            float: right;
+            margin-left: 2em;
+        }
+    }
+
+    @media #{$responsive-large} {
+        &.left, &.right {
+            max-width: calc(50% - 1em);
+        }
+    }
+}

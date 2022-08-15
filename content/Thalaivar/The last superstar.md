@@ -1,11 +1,13 @@
 ---
-title: "The last superstar"
-author: "Vinoth"
-date: "2013-09-28T22:22:17+00:00"
-url: "/2013/09/28/the-last-superstar/"
-featured_image: "420397-what-rajinikanth-has-to-say-about-lungi-dance1.jpg"
-post_views_count: "3629"
+date: 2013-09-28T22:22:17+00:00
+timezone: EST
+location: Chennai, India
+title: The last superstar
+tags:
+  - Thalaivar
+image: thalaivar.jpg
 ---
+
 ## Today’s stars are commodities stocked in a chain of supermarkets. They can never be superstar.
 ***
 
@@ -16,7 +18,7 @@ When I watch the new hero-oriented films, they have special effects and wirework
 
 ***
 
-#### Thalivar, in comparison, has remained Thalivar. It’s the reason why we don’t need Hollywood superheroes like Superman or Batman or Spider Man.
+## Thalivar, in comparison, has remained Thalivar. It’s the reason why we don’t need Hollywood superheroes like Superman or Batman or Spider Man.
 
 ***
 
@@ -24,7 +26,7 @@ When I watch the new hero-oriented films, they have special effects and wirework
 
 The only actor, whose movie tickets sell like hot cakes on the first day is Rajinikanth. It will be no exaggeration to declare that Rajinikath is the most loved film star on this planet. He has been in the industry for 30 years &#8211;and he is getting more love with every passing day. Every movie of his would have a punch line&#8211;the audience knew it. Finally when the invariable happened , they would cry WOW! &#8212; and that would be the talk of the town for the next 3 months.
 
-#### “Andavan solran, Arunachalam seiran.” &#8211; “God decrees, Arunachalam delivers.”
+## “Andavan solran, Arunachalam seiran.” &#8211; “God decrees, Arunachalam delivers.”
 
 The audience slips from the edge of their seats and jumps on their feet. He does not carry his screen image in real life and he acts his 62 years age&#8211;sans ego . People love humble and generous celebrities.
 
@@ -41,7 +43,7 @@ Science has taught us that two negatives make a positive, and it appears, in Raj
 ![Thalaivar](/thalaivar3.jpeg)
 
 
-#### He deserves all the name and fame.
+## He deserves all the name and fame.
 
 He got big ad deals worth 2crores in 1980s for a whisky. He strongly rejected it thinking most of his fans would start drinking. The kind of mass he has any product he endorses would be a sure shot hit and business deal. He did not want to false endorse any. That’s why he doesn’t do any. He could have made lot of money but he didn’t. The only thing he did was for Polio campaign. That year it had a record number of people coming for it.
 
