@@ -1,5 +1,5 @@
 ---
 title: Thalaivar
 image:
-    source: thalaivar/thalaivar.jpg
+    source: thalaivar.jpg
 ---
